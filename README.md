@@ -12,6 +12,16 @@ This project is a **Hand Tracking Mouse Control System** using a webcam, which l
 
 ---
 
+## Use Cases
+1. Touchless Interaction: Control the mouse without physically touching it, ideal for situations requiring hands-free control.
+2. Accessibility: Assist individuals with mobility or dexterity challenges by providing an alternative mouse control method.
+3. Gaming and Entertainment: Enable innovative gesture-based controls for games or interactive applications.
+4. Presentation Control: Navigate presentations or slideshows using hand gestures.
+5. Creative Coding Projects: Experiment with hand-tracking technology for creative coding or computer vision applications.
+6. Hygienic Environments: Operate computers in environments where touch-based interactions need to be minimized (e.g., medical labs or public kiosks).
+
+---
+
 ## Prerequisites
 - Python 3.8 or higher installed on your system.
 - A functional webcam.
