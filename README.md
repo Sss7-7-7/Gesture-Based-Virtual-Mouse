@@ -30,10 +30,10 @@ Follow the steps below to install the required dependencies:
 ---
 
 ## Usage
-1. Save the script to a file, for example, `hand_tracking_mouse_control.py`.
+1. Save the script to a file, `Gesture-Based Virtual Mouse.py`.
 2. Run the script using:
    ```bash
-   python hand_tracking_mouse_control.py
+   Gesture-Based Virtual Mouse.py
    ```
 3. **Interaction Guide:**
    - **Move Cursor**: Move your hand within the camera's view. Use the index finger to guide the cursor.
